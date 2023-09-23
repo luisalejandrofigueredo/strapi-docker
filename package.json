@@ -2,8 +2,8 @@
   "name": "strapi-docker",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/strapi/strapi-docker.git",
-  "author": "Alexandre Bodin <bodin.alex@gmail.com>",
+  "repository": "https://github.com/luisalejandrofigueredo/StraApidocker.git",
+  "author": "Luis Figueredo <luisalejandrofigueredo@gmail.com>",
   "license": "MIT",
   "scripts": {
     "lint": "eslint ."
